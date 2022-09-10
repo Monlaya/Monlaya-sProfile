@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(139, 197, 198);
+  }
+#text1{
+    text-align: center;
+    color: #ff4bc6df;
+}
+#text2{
+    text-align: center;
+    color: #6201a3c0;
+}
+#text3{
+    text-align: center;
+    color: #8804e0c0;
+}
+#text4{
+    color: #000000;
+}
+#text5{
+    text-align: center;
+    color: #9800fdf0;
+}
+.center{
+    text-align: center;
+    color: #ff00aedf;
+}
+
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 0, 0);
+}
+/* mouse over link */
+a:hover {
+    color: #0c8563;
+}
+
